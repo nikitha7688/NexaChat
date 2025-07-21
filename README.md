@@ -50,10 +50,13 @@ cd frontend
 
 Navigate into your frontend project folder :
 cd my-project
+
 Install frontend dependencies:
 npm install
+
 Start the development server:
 npm run dev
+
 You can now access the frontend at: http://localhost:5173
 
 Step 3: Setup the Backend

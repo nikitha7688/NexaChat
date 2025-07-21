@@ -65,15 +65,25 @@ npm run dev
 You can now access the frontend at: http://localhost:5173
 
 Step 3: Setup the Backend
+
 Open a new terminal
+
 Navigate to the backend folder:
+
 cd backend
+
 Install backend dependencies:
+
 npm install
+
 In .env file in the backend folder and add your Gemini API key:
+
 GEMINI_API_KEY=your_api_key_here
+
 Note:You can either use your own Gemini API key or the existing one if it's already provided in the project.
+
 Start the backend server:
+
 node server.js
 
 

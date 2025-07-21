@@ -41,20 +41,25 @@ Google Gemini AI API – Integrated via GEMINI_API_KEY to process and respond to
 Follow these steps to clone, install, and run both the frontend and backend of NexaChat AI on your local machine.
 
 Step 1: Clone the Repository
+
 git clone https://github.com/nikitha7688/NexaChat.git
 
 Step 2: Setup the Frontend
 
 Navigate into the frontend directory:
+
 cd frontend
 
 Navigate into your frontend project folder :
+
 cd my-project
 
 Install frontend dependencies:
+
 npm install
 
 Start the development server:
+
 npm run dev
 
 You can now access the frontend at: http://localhost:5173

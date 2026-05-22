@@ -1,8 +1,8 @@
 // src/App.jsx
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Landing from "./pages/Landing";
-import ChatbotUI from "./pages/ChatbotUI";
+import Landing from "./Pages/Landing";
+import ChatbotUI from "./Pages/ChatbotUI";
 import './index.css';
 
 export default function App() {
